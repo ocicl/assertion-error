@@ -4,6 +4,6 @@ Error pattern for assertion libraries in Common Lisp.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/noloop/assertion-error.git |
-| commit  | 93bd7cf                                           |
+| commit  | 8eab692                                           |
 | systems | assertion-error                                   |
 |---------+---------------------------------------------------|
